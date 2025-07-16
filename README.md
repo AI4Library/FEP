@@ -31,7 +31,7 @@ user attributes such as **sex, race/ethnicity, and patron type**.
 │                            FEP  ▸  PHASE I                             │
 │                    Detect Systematic Differences                       │
 ├────────────────────────────────────────────────────────────────────────┤
-│ 1. Feature engineering  →  TF-IDF (content) + function words           │
+│ 1. Feature engineering  →  TF-IDF (content)                            │
 │ 2. Diagnostic classifiers →  Logistic Reg. · MLP · XGBoost             │
 │ 3. 5-fold CV  +  Bonferroni tests  →  "Is accuracy > chance?"          │
 └────────────────────────────────────────────────────────────────────────┘
